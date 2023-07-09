@@ -1,2 +1,1 @@
-this is the file3
-this to test the conflict 
+this is the file3 new one 
