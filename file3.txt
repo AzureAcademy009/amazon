@@ -1,2 +1,2 @@
-this is the file3 ththh
+this is the file3 new one
 this to test the conflict 
